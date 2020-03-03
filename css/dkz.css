@@ -1,0 +1,25 @@
+.no-display {
+  display: none;
+}
+
+.new-card h1 {
+  margin: 20px 0px;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+}
+
+.new-card ul {
+  list-style-type: square;
+  list-style-image: none;
+  list-style-position: inside;
+  margin: 0;
+  margin-block-star: 0px;
+  padding-inline-start: 0px;
+  font-size: 13px;
+}
+
+.new-card li {
+  margin: 0;
+  padding: 0;
+}
