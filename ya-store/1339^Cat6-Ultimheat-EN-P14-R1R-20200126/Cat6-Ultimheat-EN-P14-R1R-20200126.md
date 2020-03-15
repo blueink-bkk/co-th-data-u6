@@ -3,7 +3,7 @@ article_id:  R1R
 img:  Cat6-Ultimheat-EN-P14-R1R-20200126.jpg
 pdf:  Cat6-Ultimheat-EN-P14-R1R-20200126.pdf
 format:  diva-v1
-sku:  Type R1R
+sku:  Type: R1R
 ---
 # Paddle flow switches, micro-switch contact, 1/2” BSPP male thread, and Pt100 temperature sensor.
 

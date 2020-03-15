@@ -3,7 +3,7 @@ article_id:  R3F
 img:  Cat6-Ultimheat-EN-P33-R3F-20200118.jpg
 pdf:  Cat6-Ultimheat-EN-P33-R3F-20200118.pdf
 format:  diva-v1
-sku:  Type R3F
+sku:  Type: R3F
 ---
 
 # Piston flow switches, reed switch contact, 1/2” BSPP male thread, and snap-on connection for DN10 or 12.7 OD copper tube.

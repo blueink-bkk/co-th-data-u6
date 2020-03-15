@@ -3,7 +3,7 @@ article_id:  RAX
 img:  Cat31-Ultimheat-EN-P99-P100-RAX-20200226.jpg
 pdf:  Cat31-Ultimheat-EN-P99-P100-RAX-20200226.pdf
 format:  diva-v1
-sku:  Type RAX
+sku:  Type: RAX
 ---
 # Paddle flow switches, reed switch contact, built-in 16A SPDT relay
 

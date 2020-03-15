@@ -3,7 +3,7 @@ article_id:  R35
 img:  Cat6-Ultimheat-EN-P34-R35-20200119.jpg
 pdf:  Cat6-Ultimheat-EN-P34-R35-20200119.pdf
 format:  diva-v1
-sku:  Type R35
+sku:  Type: R35
 ---
 # Piston flow switches, reed switch contact, inlet and outlet 1/2” BSPP male
 

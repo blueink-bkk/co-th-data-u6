@@ -1,7 +1,7 @@
 ---
 article_id:  9BBJO
-img:  Cat2-Ultimheat-EN-P190-P191-9BBJO-20200217.jpg
-pdf:  Cat2-Ultimheat-EN-P190-P191-9BBJO-20200217.pdf
+img:  Cat2-Ualtimheat-EN-P190-P191-9BBJO-20200217.jpg
+pdf:  Cat2-Ualtimheat-EN-P190-P191-9BBJO-20200217.pdf
 format: diva-v1
 sku:  Type 9BBJO
 ---

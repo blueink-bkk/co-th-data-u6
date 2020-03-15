@@ -3,12 +3,12 @@ article_id:  R22
 img:  Cat6-Ultimheat-EN-P29-R22-20200116.jpg
 pdf:  Cat6-Ultimheat-EN-P29-R22-20200116.pdf
 format:  diva-v1
-sku:  Type R22
+sku:  Type: R22
 ---
 
 # Flap flow switches, reed switch contact, 1/2” BSPP male thread, with water input temperature control.
 
-Main applications: Product developed for miniature instantaneous water
+Main applications: Product developed for miniature instantaneous water 
 heaters for showers in circuits where the water can be preheated by solar energy equipment or heat pump.   
 Body material: PPO compatible with drinking water.   
 Flap: PPO.  
